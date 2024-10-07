@@ -1,2 +1,2 @@
 # learning_golang
-learning golang with differnrent projects
+learning golang with different projects
